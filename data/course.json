@@ -1,0 +1,47 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Relativity"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "dbdcb54d-58af-6ac7-ed89-73086fa9e82f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Relativistic Quantum Field Theory III",
+  "course_description": "This course is the third and last term of the quantum field theory sequence. Its aim is the proper theoretical discussion of the physics of the standard model. Topics include: quantum chromodynamics; the Higgs phenomenon and a description of the standard model; deep-inelastic scattering and structure functions; basics of lattice gauge theory; operator products and effective theories; detailed structure of the standard model; spontaneously broken gauge theory and its quantization; instantons and theta-vacua; topological defects; introduction to supersymmetry.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.325",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
